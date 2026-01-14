@@ -22,4 +22,4 @@ If you want to run this on your own machine (and catch your own Snorlax), follow
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Gotta-Fetch-Em-All.git](https://github.com/YOUR_USERNAME/Gotta-Fetch-Em-All.git)
+   git clone https://github.com/Kunal70616c/Gotta-Fetch-Em-All.git
